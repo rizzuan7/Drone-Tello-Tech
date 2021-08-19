@@ -117,7 +117,3 @@ make
 cp libh264decoder.so ../../
 ```
 With Windows,you can create a project through visual studio, add files in h264decoder and dependencies such as ffmpeg and libboost, compile the project and generate a libh264decoder.pyd file.We have generated a libh264decoder.pyd and put it in the "\h264decoder\Windows"foleder so that you can copy put it to "python/site-package".
-
-##Contact Information
-
-If you have any questions about this sample code and the installation, please feel free to contact me. You can communicate with me by sending e-mail to sdk@ryzerobotics.com.
